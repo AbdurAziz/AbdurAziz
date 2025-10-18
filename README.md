@@ -10,7 +10,7 @@ I'm Abdur Aziz, a recent Electrical and Computer Engineer graduate from the Univ
 - **Software Engineer Intern at Chevron - Data Marketplace Team** - [Houston, Texas | Summer 2023]
 - **Senior Design Project Tech Lead for British Petroleum's Alarm Analysis Tool** - British Petroleum [Houston, Texas | Fall 2024 - Spring 2025]
 
-  ## 💻 Technology Stack
+## 💻 Technology Stack
 <p align="left">
   
 <!-- Python -->
@@ -35,7 +35,6 @@ I'm Abdur Aziz, a recent Electrical and Computer Engineer graduate from the Univ
 <!-- MongoDB -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45"/>
 
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white) 
 </p>
 
 🌊 Hobbies:
