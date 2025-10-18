@@ -38,8 +38,6 @@ I'm Abdur Aziz, a recent Electrical and Computer Engineer graduate from the Univ
 </p>
 
 🌊 Hobbies:
-
-- Continuous Learning.
 - Spontaneous Road Trips
 - Late night walks
 - Tennis
