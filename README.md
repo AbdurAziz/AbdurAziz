@@ -4,7 +4,7 @@
 
 I'm Abdur Aziz, a May 2025 Computer Engineer graduate from the University of Houston. 
 
-## 🚧 Currently Building
+## 🚧 Currently Building (In Progress)
 
 I'm currently building **TrailMeet**, a mobile-first hiking app that helps users discover nearby trails, see real-time activity, and decide where to go based on live check-ins and recent trail reports.
 
