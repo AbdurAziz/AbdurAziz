@@ -4,8 +4,11 @@
 
 I'm Abdur Aziz, a May 2025 Computer Engineer graduate from the University of Houston. 
 
-**Currently...**
-I am building TrailMeet, a mobile-first hiking app that helps users discover nearby trails, see real-time activity, and decide where to go based on live check-ins and recent trail reports.
+## 🚧 Currently Building
+
+I'm currently building **TrailMeet**, a mobile-first hiking app that helps users discover nearby trails, see real-time activity, and decide where to go based on live check-ins and recent trail reports.
+
+The goal is to create a clean, intuitive experience that feels like a real-world product — not just a demo — with a focus on performance, usability, and thoughtful system design.
 
 ## 🤖 Learning & Exploring
 
@@ -18,13 +21,13 @@ Alongside TrailMeet, I’m actively exploring modern AI and machine learning con
 - Building lightweight AI features into existing systems
 
 
-⚡Work Experience:
+### Work Experience:
 - **Software Engineer Intern at Frigate** [London, UK | September 2025 - November 2025]
 - **Software Engineer Intern at Chevron - Supply Chain and Management Team** [Houston, Texas | Summer 2024]
 - **Software Engineer Intern at Chevron - Data Marketplace Team** - [Houston, Texas | Summer 2023]
 - **Senior Design Project Tech Lead for British Petroleum's Alarm Analysis Tool** - British Petroleum [Houston, Texas | Fall 2024 - Spring 2025]
 
-## 💻 Technology Stack
+### 💻 Technology Stack
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" />
