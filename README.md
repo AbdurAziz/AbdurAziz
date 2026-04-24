@@ -2,7 +2,21 @@
 
 
 
-I'm Abdur Aziz, a recent Electrical and Computer Engineer graduate from the University of Houston
+I'm Abdur Aziz, a May 2025 Computer Engineer graduate from the University of Houston. 
+
+**Currently...**
+I am building TrailMeet, a mobile-first hiking app that helps users discover nearby trails, see real-time activity, and decide where to go based on live check-ins and recent trail reports.
+
+## 🤖 Learning & Exploring
+
+Alongside TrailMeet, I’m actively exploring modern AI and machine learning concepts — with a focus on applying them to real products.
+
+### Areas I'm exploring
+- Retrieval-Augmented Generation (RAG)
+- AI-assisted user experiences (summarization, recommendations)
+- LLM APIs and prompt design
+- Building lightweight AI features into existing systems
+
 
 ⚡Work Experience:
 - **Software Engineer Intern at Frigate** [London, UK | September 2025 - November 2025]
