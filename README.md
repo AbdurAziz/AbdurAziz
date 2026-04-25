@@ -14,7 +14,7 @@ The goal is to create a clean, intuitive experience that feels like a real-world
 
 Alongside TrailMeet, I’m actively exploring modern AI and machine learning concepts — with a focus on applying them to real products.
 
-### Areas I'm exploring
+### Areas I've been learning on the side
 - Retrieval-Augmented Generation (RAG)
 - AI-assisted user experiences (summarization, recommendations)
 - LLM APIs and prompt design
