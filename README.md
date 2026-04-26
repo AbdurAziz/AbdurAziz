@@ -2,7 +2,7 @@
 
 
 
-I'm Abdur Aziz, a May 2025 Computer Engineer graduate from the University of Houston. 
+I'm Abdur Aziz, a May 2025 Computer Engineer graduate from the University of Houston. I anticipate to pursue a Master's degree in Electrical Engineering in the future. 
 
 ## Currently Building (In Progress)
 
