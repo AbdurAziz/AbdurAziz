@@ -6,7 +6,7 @@ I'm Abdur Aziz, a May 2025 Computer Engineer graduate from the University of Hou
 
 ## Currently Building (In Progress)
 
-I'm currently building **TrailMeet**, a mobile-first hiking app that helps users discover nearby trails, see real-time activity, and decide where to go based on live check-ins and recent trail reports. It's going to go live soon.
+**Project Inactive**I'm currently building **TrailMeet**, a mobile-first hiking app that helps users discover nearby trails, see real-time activity, and decide where to go based on live check-ins and recent trail reports. It's going to go live soon.
 
 The goal is to create a clean, intuitive experience that feels like a real-world product with a focus on performance, usability, and thoughtful system design.
 
